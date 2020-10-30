@@ -1,8 +1,8 @@
-### Index
+### Содержание
 
 * [C++](#C++)
 * [Clojure](#clojure)
-* [Design and Architecture](#design-and-architecture)
+* [Дизайн и архитектура](#design-and-architecture)
 * [Haskell](#haskell)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -15,9 +15,9 @@
 
 ### Уровни
 
-BEG - новичок. Основы.  
-INT - средний. Расширенные возможности.  
-ADV - продвинутый. Тонкости.
+BEG - Hовичок. Основы.  
+INT - Cредний. Расширенные возможности.  
+ADV - Продвинутый. Тонкости.
 
 
 ### C++
